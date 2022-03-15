@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Google. Some day/
 - 📫 How to reach me:
 -                   Telegram: @t1m3_flow
--                   E-mail:   fadeev.oleksiy.kpi@gmail.com
+-                   E-mail: fadeev.oleksiy.kpi@gmail.com
 
 <!---
 AlexFadeev03/AlexFadeev03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
