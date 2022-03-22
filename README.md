@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexFadeev03
 - 👀 I’m interested in machine learning and JavaScript/
-- 🌱 I’m currently learning C#, Python, JavaScript/
+- 🌱 I’m currently learning C#, Python, HTML/
 - 💞️ I’m looking to collaborate on Google. Some day/
 - 📫 How to reach me:
 -                   Telegram: @t1m3_flow
